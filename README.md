@@ -8,11 +8,11 @@ Have you had one of those days? Your bugs are breeding in the shadows? Your team
 It may be time to call on the GitTherapy Institute, a counseling practice for IT professionals. 
 
 Since the time of Ada Lovelace, we've been helping programmers address issues like: 
-- Postcommit Depression
-- Startup Survival Guilt
-- 
-- 
-- 
+* Postcommit Depression
+* Startup Survival Guilt
+* 
+* 
+* 
 
 
 # About. 
