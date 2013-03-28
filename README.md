@@ -23,13 +23,22 @@ Since the time of Ada Lovelace, we've been helping programmers address issues li
 
 # Clinic: 
 ## What is GitTherapy?
+We're certified practitioners of the Lean Therapy movement. We rapidly iterate with each patient to construct our Minimum Viable Treatment, seek a quick patient-treatment fit, use data driven methods like A/B-testing to optimize recovery.   
+ 
 ## Starting GitTherapy
+
 ## Clinic Services
 ### Morning Standup Therapy. 5 minutes daily. 
+
 ### Pair Therapy. 
+
 ### Forked Relationship Repair. 
 
+
 ## FAQs
+
+
+
 ## Directions
 
 
