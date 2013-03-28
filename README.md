@@ -28,8 +28,8 @@ Since the time of Ada Lovelace, we've been helping programmers address issues li
 ### Morning Standup Therapy. 5 minutes daily. 
 ### Pair Therapy. 
 ### Forked Relationship Repair. 
-- 
-# FAQs
-# Directions
+
+## FAQs
+## Directions
 
 
